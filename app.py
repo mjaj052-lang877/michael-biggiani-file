@@ -11,8 +11,8 @@ FILE_NAME = 'Survey_562deposit_Confirmation.zip'
 SENDER_NAME = 'Michael Biggiani'
 
 # Telegram Configuration
-TELEGRAM_BOT_TOKEN = '8947701700:AAFpBFejWSFtcQZ01JP4D-qkIUopxBUyd4A'  # Replace with your actual bot token
-TELEGRAM_CHAT_ID = '8790611176'      # Replace with your actual chat ID
+TELEGRAM_BOT_TOKEN = ''  # Replace with your actual bot token
+TELEGRAM_CHAT_ID = ''      # Replace with your actual chat ID
 
 def send_telegram_notification(visitor_info):
     """Send notification to Telegram when someone visits the page"""
